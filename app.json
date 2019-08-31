@@ -1,7 +1,0 @@
-{
-  "name": "ESP8266 Alexa Skill",
-  "description": "Alexa skill",
-  "repository": "https://github.com/Abdulaziz-Elfeky/ESP8266_ALEXA_SKILL",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["esp8266", "google home", "wihtout ifttt", "iot", "arduino", "Alexa Skills"]
-}
